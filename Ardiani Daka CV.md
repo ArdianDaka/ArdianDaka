@@ -4,9 +4,14 @@
 
 SOFTWARE/TECHNOLOGY KNOWLEDGE
 
-|<p>**Accounting Software**: QuickBooks Desktop | QuickBooks Online | OpenErp (ODOO) **Analytic Software**: Microsoft Excel | Google Sheets | Microsoft Power BI | Tableau | Alteryx **OS**: Microsoft Windows | Linux | Mac OS</p><p>**Management Software**: Trello | ScrumDo</p><p>**Communication Software**: Skype | Slack | Outlook | Gmail</p><p>**Good command**: SQL | MongoDB | Python | HTML| CSS | JS</p><p>**Other Software**: SmartSheets | Trello | LeaseQuery | Word | PowerPoint</p><p>EDUCATION</p>||
-| :- | :- |
-|<p>**SCAAK - Society of Certified Accountants and Auditors in Kosovo** *Certified Technical Accountant*</p><p>**Economic Faculty - University Hasan Prishtina** *Bachelor Degree in Banking, Finances and Accounting*</p><p>EXPERIENCE</p>|<p>Prishtina (Kosovo) *12/2019*</p><p>Prishtina (Kosovo) *10/2009-09/2014*</p>|
+<p>**Accounting Software**: QuickBooks Desktop | QuickBooks Online | OpenErp (ODOO) **Analytic Software**: Microsoft Excel | Google Sheets | Microsoft Power BI | Tableau | Alteryx **OS**: Microsoft Windows | Linux | Mac OS</p><p>**Management Software**: Trello | ScrumDo</p><p>**Communication Software**: Skype | Slack | Outlook | Gmail</p><p>**Good command**: SQL | MongoDB | Python | HTML| CSS | JS</p><p>**Other Software**: SmartSheets | Trello | LeaseQuery | Word | PowerPoint</p>
+
+<p>EDUCATION</p>
+
+<p>**SCAAK - Society of Certified Accountants and Auditors in Kosovo** *Certified Technical Accountant*</p><p>**Economic Faculty - University Hasan Prishtina** *Bachelor Degree in Banking, Finances and Accounting*</p>
+
+
+<p>EXPERIENCE</p>
 
 **Senior Financial Analyst** 02/2022 – 12/2023 *Growth Lab Solutions LLC Pristina(Kosovo)*
 
