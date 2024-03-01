@@ -1,7 +1,5 @@
-# ARDIAN DAKA
-Pristina - Kosovo  
-+383 45 608 884  
-ardiandaka@outlook.com  
+# ARDIAN DAKA 
+Pristina - Kosovo  +383 45 608 884  ardiandaka@outlook.com  
 
 ---
 
